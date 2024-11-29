@@ -1,0 +1,112 @@
+{
+  "planets": [
+    {
+      "id": "0",
+      "name": "Sun",
+      "description": "The Sun is the star at the center of our Solar System. It provides the heat and light necessary for life on Earth. The Sun is composed mostly of hydrogen and helium, and it generates energy through nuclear fusion.",
+      "short_des": "  Star",
+      "image": "assets/images/sun-removebg-preview.png",
+      "distance_from_sun": "0 km",
+      "diameter": "1,391,000 km",
+      "gravity": "274 m/s²",
+      "moons": 0,
+      "favorite": false
+    },
+    {
+      "id": "1",
+      "name": "Mercury",
+      "description": "Mercury is the closest planet to the Sun and the smallest planet in the Solar System. It has a very thin atmosphere, so temperatures on the surface vary dramatically.",
+      "short_des": "  Planet",
+      "image": "assets/images/mercury-removebg-preview.png",
+      "distance_from_sun": "57.91 million km",
+      "diameter": "4,880 km",
+      "gravity": "3.7 m/s²",
+      "moons": 0,
+      "favorite": false
+    },
+    {
+      "id": "2",
+      "name": "Venus",
+      "description": "Venus is the second planet from the Sun and is similar in size to Earth. It has a thick atmosphere composed mostly of carbon dioxide, which traps heat, making it the hottest planet in our Solar System.",
+      "short_des": "  Planet",
+      "image": "assets/images/venus-removebg-preview.png",
+      "distance_from_sun": "108.2 million km",
+      "diameter": "12,104 km",
+      "gravity": "8.87 m/s²",
+      "moons": 0,
+      "favorite": false
+    },
+    {
+      "id": "3",
+      "name": "Earth",
+      "description": "Earth is the third planet from the Sun and the only known planet to support life. It has a breathable atmosphere, vast oceans, and diverse ecosystems.",
+      "short_des": "  Planet",
+      "image": "assets/images/earth-removebg-preview.png",
+      "distance_from_sun": "149.6 million km",
+      "diameter": "12,742 km",
+      "gravity": "9.81 m/s²",
+      "moons": 1,
+      "favorite": false
+    },
+    {
+      "id": "4",
+      "name": "Mars",
+      "description": "Mars, the fourth planet from the Sun, is known as the Red Planet due to its reddish appearance. It has the largest volcano and the deepest canyon in the Solar System.",
+      "short_des": "  Planet",
+      "image": "assets/images/mars-removebg-preview.png",
+      "distance_from_sun": "227.9 million km",
+      "diameter": "6,779 km",
+      "gravity": "3.71 m/s²",
+      "moons": 2,
+      "favorite": false
+    },
+    {
+      "id": "5",
+      "name": "Jupiter",
+      "description": "Jupiter is the fifth planet from the Sun and the largest planet in our Solar System. It is a gas giant with a massive storm called the Great Red Spot.",
+      "short_des": "  Planet",
+      "image": "assets/images/Jupiter-removebg-preview.png",
+      "distance_from_sun": "778.5 million km",
+      "diameter": "139,820 km",
+      "gravity": "24.79 m/s²",
+      "moons": 79,
+      "favorite": false
+    },
+    {
+      "id": "6",
+      "name": "Saturn",
+      "description": "Saturn is the sixth planet from the Sun and is known for its stunning rings, made of ice and rock. It is a gas giant like Jupiter.",
+      "short_des": "  Planet",
+      "image": "assets/images/Saturn-removebg-preview.png",
+      "distance_from_sun": "1.43 billion km",
+      "diameter": "116,460 km",
+      "gravity": "10.44 m/s²",
+      "moons": 82,
+      "favorite": false
+    },
+    {
+      "id": "7",
+      "name": "Uranus",
+      "description": "Uranus is the seventh planet from the Sun and is an ice giant. It has a tilted rotation axis, making its seasons extreme. It is also known for its faint ring system.",
+      "short_des": "  Planet",
+      "image": "assets/images/Uranus-removebg-preview.png",
+      "distance_from_sun": "2.87 billion km",
+      "diameter": "50,724 km",
+      "gravity": "8.69 m/s²",
+      "moons": 27,
+      "favorite": false
+    },
+    {
+      "id": "8",
+      "name": "Neptune",
+      "description": "Neptune is the eighth and farthest planet from the Sun. It is a gas giant with strong winds and a deep blue color due to methane in its atmosphere.",
+      "short_des": "  Planet",
+      "image": "assets/images/Neptune-removebg-preview.png",
+      "distance_from_sun": "4.5 billion km",
+      "diameter": "49,244 km",
+      "gravity": "11.15 m/s²",
+      "moons": 14,
+      "favorite": false
+    }
+  ]
+}

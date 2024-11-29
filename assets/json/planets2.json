@@ -1,0 +1,20 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "name": "Earth",
+      "description": "Our home planet, rich in water and life.",
+      "radius": 6371,
+      "orbit_speed": 29.78,
+      "model": "assets/models/earth.glb"
+    },
+    {
+      "id": 2,
+      "name": "Mars",
+      "description": "The red planet, known for its iron oxide surface.",
+      "radius": 3389,
+      "orbit_speed": 24.07,
+      "model": "assets/models/mars.glb"
+    }
+  ]
+}
